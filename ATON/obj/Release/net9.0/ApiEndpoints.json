@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ATON.Controllers.AdminController",
+    "Method": "RegisterUser",
+    "RelativePath": "Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Core.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

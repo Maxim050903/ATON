@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\migrations\\20250517213222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\20250517213222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\migrations\\atondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\migrations\\atondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|solutionrelative:api\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|solutionrelative:api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|solutionrelative:api\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4467A214-105B-4437-8BC1-4C23A48A42A1}|Api\\Api.csproj|solutionrelative:api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325C13BF-7BF1-49EC-890F-6ACB38BB9BBD}|Core\\Core.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325C13BF-7BF1-49EC-890F-6ACB38BB9BBD}|Core\\Core.csproj|solutionrelative:core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\dtos\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\dtos\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\dtos\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\dtos\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\infrastructure\\jwtreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwtreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\atondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\atondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B047AD-BD54-4A6E-B7F8-28E96882C44C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\aton\\extantions\\apiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC2646D-9CAA-4664-98FF-3ED7E4913CD5}|ATON\\ATON.csproj|solutionrelative:aton\\extantions\\apiextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\aton\\database\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B02EA23-F0FC-4114-9828-0B1E15DDD613}|DataBase\\DataBase.csproj|solutionrelative:database\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtonDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Migrations\\AtonDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\AtonDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Migrations\\AtonDBContextModelSnapshot.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\AtonDBContextModelSnapshot.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:38:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250517213222_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Migrations\\20250517213222_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataBase\\Migrations\\20250517213222_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Migrations\\20250517213222_InitialCreate.cs",
+              "RelativeToolTip": "DataBase\\Migrations\\20250517213222_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:37:51.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "Infrastructure\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:06:00.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Core\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Models\\User.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:07:58.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:07:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ATON\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ATON\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:44:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ATON\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ATON\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:37:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Program.cs",
+              "RelativeDocumentMoniker": "ATON\\Program.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Program.cs",
+              "RelativeToolTip": "ATON\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:22:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Api\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:26:39.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataBase\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataBase\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAALsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:11:42.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Api\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Api\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:40:33.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T04:10:56.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Api\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Services\\UserService.cs",
+              "RelativeToolTip": "Api\\Services\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwFkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:14:20.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\DTOs\\Requests.cs",
+              "RelativeDocumentMoniker": "ATON\\DTOs\\Requests.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\DTOs\\Requests.cs",
+              "RelativeToolTip": "ATON\\DTOs\\Requests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:56:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Api\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Api\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Api\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:28:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\DTOs\\Responses.cs",
+              "RelativeDocumentMoniker": "ATON\\DTOs\\Responses.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\DTOs\\Responses.cs",
+              "RelativeToolTip": "ATON\\DTOs\\Responses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:56:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ATON\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ATON\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:44:12.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtReader.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtReader.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\JwtReader.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtReader.cs",
+              "RelativeToolTip": "Infrastructure\\JwtReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T04:03:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AtonDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\AtonDBContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\AtonDBContext.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\AtonDBContext.cs",
+              "RelativeToolTip": "DataBase\\AtonDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:10:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "DataBase\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "DataBase\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:10:46.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataBase",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\DataBase.csproj",
+              "RelativeDocumentMoniker": "DataBase\\DataBase.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\DataBase.csproj",
+              "RelativeToolTip": "DataBase\\DataBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T23:13:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ATON\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\appsettings.Development.json",
+              "RelativeToolTip": "ATON\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T21:29:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\Infrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "Infrastructure\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:05:37.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Extantions\\ApiExtentions.cs",
+              "RelativeDocumentMoniker": "ATON\\Extantions\\ApiExtentions.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\ATON\\Extantions\\ApiExtentions.cs",
+              "RelativeToolTip": "ATON\\Extantions\\ApiExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:04:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "DataBase\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\ATON\\DataBase\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "DataBase\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:11:18.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
