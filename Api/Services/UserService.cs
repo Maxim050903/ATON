@@ -78,13 +78,16 @@ namespace Api.Services
         public async Task<User> GetUserByLogin(string login, string password = null)
         {
             var user = await _userRepository.GetUserByLogin(login);
-            var result = _passwordHasher.Verify(password, user.PasswordHash);
-
-            if (result)
+            if (password != null)
             {
-                return user;
+                var result = _passwordHasher.Verify(password, user.PasswordHash);
+                if (result)
+                {
+                    return user;
+                }
+                throw new Exception("Not found");
             }
-            throw new Exception("Not found");
+            return user;
         }
 
         public async Task<bool> GetLogins(string login)

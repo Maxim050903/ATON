@@ -17,3 +17,4 @@ C:\Users\cuzev\Desktop\GitRepository\ATON\DataBase\obj\Debug\net9.0\refint\DataB
 C:\Users\cuzev\Desktop\GitRepository\ATON\DataBase\obj\Debug\net9.0\DataBase.pdb
 C:\Users\cuzev\Desktop\GitRepository\ATON\DataBase\obj\Debug\net9.0\DataBase.genruntimeconfig.cache
 C:\Users\cuzev\Desktop\GitRepository\ATON\DataBase\obj\Debug\net9.0\ref\DataBase.dll
+C:\Users\cuzev\Desktop\GitRepository\ATON\DataBase\obj\Debug\net9.0\DataBase.sourcelink.json

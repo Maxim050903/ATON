@@ -134,7 +134,7 @@ namespace DataBase.Repositories
         //список отсортирован по CreatedOn(Доступно Админам)
         public async Task<List<User>> GetAllActiviteUsers()
         {
-            var userEntities = await _context.Users.Where(x => x.RevokerOn == null).AsNoTracking().ToListAsync();
+            var userEntities = await _context.Users.Where(x => x.RevokerOn == DateTime.MinValue).AsNoTracking().ToListAsync();
 
             var users = userEntities.Select(x => CreateUserOnEntity(x)).ToList();
 

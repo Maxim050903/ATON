@@ -152,3 +152,4 @@ C:\Users\cuzev\Desktop\GitRepository\ATON\ATON\obj\Debug\net9.0\staticwebassets.
 C:\Users\cuzev\Desktop\GitRepository\ATON\ATON\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\cuzev\Desktop\GitRepository\ATON\ATON\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\cuzev\Desktop\GitRepository\ATON\ATON\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cuzev\Desktop\GitRepository\ATON\ATON\obj\Debug\net9.0\ATON.sourcelink.json

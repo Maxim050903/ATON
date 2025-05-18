@@ -35,7 +35,7 @@ namespace ATON.Controllers
 
             await _userService.UpdateUser(user);
 
-            return Ok();
+            return Ok(user);
         }
 
         [Route("/UpdatePasswordByUser")]
@@ -47,7 +47,7 @@ namespace ATON.Controllers
 
             var result = await _userService.UpdatePassword(Login, Login, password);
 
-            return Ok();
+            return Ok("password changed");
         }
 
         [Route("/UpdateLoginByUser")]
@@ -67,7 +67,10 @@ namespace ATON.Controllers
         public async Task<ActionResult> GetUserByPassword(string login, string password)
         {
             var user = await _userService.GetUserByLogin(login, password);
-            return Ok(user);
+
+            var response = new AnswerForLoginRequest(user.Name, user.Gender, user.Birthday, true);
+
+            return Ok(response);
         }
     }
 }

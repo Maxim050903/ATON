@@ -4,6 +4,7 @@
    (     
         string Name,
         int Gender,
-        DateTime Birthday
+        DateTime Birthday,
+        bool isActive
    );
 }

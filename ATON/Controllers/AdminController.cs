@@ -58,7 +58,7 @@ namespace ATON.Controllers
 
             await _userService.UpdateUser(user);
 
-            return Ok();
+            return Ok(user);
         }
 
         [Route("/UpdatePassword")]
@@ -70,7 +70,7 @@ namespace ATON.Controllers
 
             var result = await _userService.UpdatePassword(login, AdminLogin, password);
 
-            return Ok();
+            return Ok("Password changed");
         }
 
         [Route("/UpdateLogin")]
@@ -97,8 +97,15 @@ namespace ATON.Controllers
         [HttpGet]
         public async Task<ActionResult> GetUserByLogin(string login)
         {
-            var user = await _userService.GetUserByLogin(login, null);
-            return Ok();
+            var logins = await _userService.GetLogins(login);
+            if (!logins)
+            {
+                var user = await _userService.GetUserByLogin(login, null);
+                var isActive = user.RevokerOn == DateTime.MinValue ? true : false;
+                var response = new AnswerForLoginRequest(user.Name, user.Gender, user.Birthday, isActive);
+                return Ok(response);
+            } 
+            return BadRequest("login not found");
         }
 
         [Route("/GetUserByAge")]
@@ -110,8 +117,9 @@ namespace ATON.Controllers
 
             foreach (var user in users)
             {
+                var isActive = user.RevokerOn == DateTime.MinValue ? true: false;
                 var value = new AnswerForLoginRequest(user.Name,
-                    user.Gender, user.Birthday);
+                    user.Gender, user.Birthday, isActive);
 
                 response.Add(value);
             }
@@ -128,7 +136,7 @@ namespace ATON.Controllers
             //0 is hard delete
             await _userService.DeleteUser(login, LoginBy, 0);
 
-            return Ok();
+            return Ok("User delete");
         }
 
         [Route("/SoftDelete")]
@@ -140,7 +148,7 @@ namespace ATON.Controllers
 
             await _userService.DeleteUser(login, LoginBy, 1);
 
-            return Ok();
+            return Ok("user deleted soft");
         }
 
         [Route("/RecoveryUser")]
@@ -149,7 +157,7 @@ namespace ATON.Controllers
         {
             await _userService.RecoveryUser(id);
 
-            return Ok();
+            return Ok("user recovery");
         }
     }
 }
